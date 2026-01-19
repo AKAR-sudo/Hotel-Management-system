@@ -115,9 +115,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or support, please contact:
 - Developer: [Your Name]
-- Email: [akarbakr72@example.com]
-- GitHub: [AKAR-sudo]
+- Email: [akarbakr72@gmail.com]
+- GitHub: [@AKAR-sudo]
 
 ## Disclaimer
+
 
 This application is for educational and demonstration purposes. It is not intended for production use in real healthcare environments without proper security audits, compliance with healthcare regulations (e.g., HIPAA), and professional testing.
