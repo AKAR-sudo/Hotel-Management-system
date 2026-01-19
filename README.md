@@ -2,10 +2,7 @@
 
 ## Overview
 
-The Hospital Management System (HMS)
-is a comprehensive web-based application designed to streamline and automate hospital administrative operations.
-It provides a centralized platform for managing appointments, doctors, patients, departments, employees, and schedules, 
-enabling healthcare facilities to operate more efficiently and effectively.
+The Hospital Management System (HMS) is a comprehensive web-based application designed to streamline and automate hospital administrative operations. It provides a centralized platform for managing appointments, doctors, patients, departments, employees, and schedules, enabling healthcare facilities to operate more efficiently and effectively.
 
 ## Features
 
@@ -110,9 +107,17 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes and test thoroughly.
 4. Submit a pull request with a clear description of your changes.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Contact
 
 For questions or support, please contact:
-- Developer: [akar]
-- Email: [akarbakr72@gmail.com]
+- Developer: [Your Name]
+- Email: [akarbakr72@example.com]
 - GitHub: [AKAR-sudo]
+
+## Disclaimer
+
+This application is for educational and demonstration purposes. It is not intended for production use in real healthcare environments without proper security audits, compliance with healthcare regulations (e.g., HIPAA), and professional testing.
