@@ -114,5 +114,5 @@ Contributions are welcome! Please follow these steps:
 
 For questions or support, please contact:
 - Developer: [akar]
-- Email: [akarbakr72@example.com]
+- Email: [akarbakr72@gmail.com]
 - GitHub: [AKAR-sudo]
